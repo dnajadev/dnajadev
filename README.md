@@ -1,4 +1,4 @@
-## Hi, i like coding :)
+## Hi, I like coding! :)
 
 <!--
 **dnajadev/dnajadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
